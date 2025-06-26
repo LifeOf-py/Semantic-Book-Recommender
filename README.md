@@ -61,7 +61,7 @@ A smart book recommender system that understands what you're in the mood for and
 
 ## Deployment on Hugging Face Spaces
 
-The app is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/yukito96/book-recommender) using:
+The app is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/yukito96/book-recommender)
 
 ---
 

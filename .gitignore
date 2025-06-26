@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+
+# Data artifacts
+*.csv
+*.tsv
+*.json
+*.parquet
+
+# IDE-specific
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db

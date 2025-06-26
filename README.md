@@ -11,7 +11,7 @@ A smart book recommender system that understands what you're in the mood for and
 ## Features
 
 - **Semantic Search:** Matches your query to relevant book descriptions using OpenAI embeddings + Chroma vector store.
-- **Emotion-Based Filtering:** Classifies books into 5 emotions - joy, sadness, anger, fear, surprise - using a fine-tuned HuggingFace DistilRoberta model.
+- **Emotion-Based Filtering:** Classifies books into 5 emotions - joy, sadness, anger, fear, surprise - using a fine-tuned HuggingFace DistilRoBERTa model.
 - **Genre Filtering:** Pick from 20+ genres to narrow your recommendations.
 - **Interactive UI:** Built with Gradio and deployed on HuggingFace Spaces.
 

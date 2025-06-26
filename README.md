@@ -20,12 +20,13 @@ A smart book recommender system that understands what you're in the mood for and
 ## Project Structure
 
 ```├── app.py # Gradio app (main entry point)
-├── books_with_emotions.csv # Final dataset with emotions
 ├── tagged_description.txt # Preprocessed descriptions for vector indexing
 ├── data-exploration.ipynb # Data cleaning and preprocessing
 ├── vector-search.ipynb # Embedding + vector DB creation (Chroma)
 ├── text-classification.ipynb # To harmonize the skewed distribution of Genre
 ├── sentiment-analysis.ipynb # Multilabel emotion classification
+├── books_with_emotions.csv # Final dataset with emotions
+├── app.py # Gradio UI application
 ├── requirements.txt # Dependencies
 ```
 
